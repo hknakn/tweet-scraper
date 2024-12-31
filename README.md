@@ -14,7 +14,9 @@ A modern, efficient Twitter scraper that collects tweets from any public profile
 
 ## 🎬 Demo
 
-[Your demo video will go here]
+https://github.com/user-attachments/assets/0e26a021-5095-4ac4-9050-649d3aa13588
+
+
 
 ## 🚀 Quick Start
 
